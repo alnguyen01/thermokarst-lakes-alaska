@@ -1,1 +1,6 @@
 first_550/lake_geometry_ice_phenology.ipynb
+
+# Large data files (too big for GitHub)
+alaska_lakes_ice_probability_timeseries_2019-2023.csv
+training_data.parquet
+rf_ice_model.joblib
